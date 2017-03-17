@@ -22,7 +22,7 @@ sections: [
     ['cls', 'Class'],
     ['exp', 'Examples'],
     ['ref', 'Reference'],
-    ['faq', 'FAQ']
+    ['more', 'More']
 ]
 
 # Keep as an empty string if served up at the root. If served up at a specific
