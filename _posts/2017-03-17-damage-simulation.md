@@ -23,7 +23,7 @@ test = DamageSimulation(tree, ghg_levels=[450, 650, 1000], draws=400, peak_temp=
 This will generate a csv file in ./data/ which store the damage simulation result
 
 ### Contributions
-Different distributions are allowed to draw random numbers for 
+Different distributions are allowed to draw random numbers.
 <br>
 
 <br>
