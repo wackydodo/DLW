@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "My New Page"
+title: "My New Page1"
 category: doc
 date: 2017-03-17 00:55:30
 ---
