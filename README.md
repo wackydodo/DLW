@@ -4,35 +4,32 @@ This project is based on the working paper ["Applying Asset Pricing Theory to Ca
 
 ## Getting Started
 
-5 main classes are contained in this framwork. 
+5 main classes are contained in this framwork. Ea
+
 * damage
 * forcing
 * utility
 * tree
 * optimization
 
-
-
-
-### Prerequisitesca
+### Prerequisites
 
 * Python 2.7 or Python 3.0 +
 * Works on Windows, Mac
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
+Tree-like picture
 
 ### Break down into end to end tests
 
 Explain what these tests test and why
-
 ```
 Give an example
 ```
 
 ## Contributing
-...
+....
 
 ## Authors
 
