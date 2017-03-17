@@ -15,17 +15,26 @@ This project is based on the working paper ["Applying Asset Pricing Theory to Ca
 * tree
 * optimization
 
-## Prerequisites
+## Getting Started
+
+### Prerequisites
 
 * Python 2.7 or Python 3.0 +
 * Works on Windows, Mac
 
 ## Running the tests
 
-Tree-like picture
+* Tree-like picture
+
+### Break down into end to end tests
+
+Explain what these tests test and why
+```
+Give an example
+```
 
 ## Contributing
-....
+### Examples
 
 ## Authors
 
