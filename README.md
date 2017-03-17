@@ -1,4 +1,4 @@
-# DLW Model
+# Applying Asset Pricing Theory to Calibrate the Price of Climate Risk
 
 One Paragraph of project description goes here
 
