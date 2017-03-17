@@ -8,8 +8,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-* Python 2.7 or Python 3.3+
-* Works on Linux, Windows, Mac OSX, BSD
+* Python 2.7 or Python 3.0 +
+* Works on Windows, Mac
 
 ### Installing
 
