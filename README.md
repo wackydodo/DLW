@@ -1,6 +1,6 @@
-# DLW Model
+# DLW Model 
 
-Applying Asset Pricing Theory to Calibrate the Price of Climate Risk
+Applying Asset Pricing Theory to Calibrate the Price of Climate Risk.......
 
 ## Getting Started
 
