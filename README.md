@@ -29,7 +29,7 @@ Give an example
 
 ## Authors
 
-* **Robert Litterman** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Robert Litterman**
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
