@@ -1,7 +1,7 @@
 ## Overview
 
-This project is based on the working paper ["Applying Asset Pricing Theory to Calibrate the Price of Climate Risk"](http://www.nber.org/papers/w22795) by Kent D. Daniel, Robert B. Litterman, and Gernot Wagner
-
+This project is based on the working paper ["Applying Asset Pricing Theory to Calibrate the Price of Climate Risk"](http://www.nber.org/papers/w22795) by Kent D. Daniel, Robert B. Litterman, and Gernot Wagner. It aims at providing a analyzing
+framework
 
 ## Getting Started
 
@@ -78,8 +78,3 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
