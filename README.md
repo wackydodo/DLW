@@ -1,5 +1,3 @@
-Read the docs: http://bruth.github.io/jekyll-docs-template
-=======
 ## Overview
 
 This project is based on the working paper ["Applying Asset Pricing Theory to Calibrate the Price of Climate Risk"](http://www.nber.org/papers/w22795) by Kent D. Daniel, Robert B. Litterman, and Gernot Wagner which aims at providing a analyzing framework for pricing greenhouse gas emissions.
@@ -43,4 +41,3 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 ...
 
->>>>>>> 5a90378ebb4cc3ca0e6691629091de0ccba9567a
