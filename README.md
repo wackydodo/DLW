@@ -1,6 +1,7 @@
-##Overview
+## Overview
 
-This project Applying Asset Pricing Theory to Calibrate the Price of Climate Risk.......
+This project is based on the working paper [("Applying Asset Pricing Theory to Calibrate the Price of Climate Risk")](http://www.nber.org/papers/w22795) by Kent D. Daniel, Robert B. Litterman, and Gernot Wagner
+
 
 ## Getting Started
 
