@@ -4,7 +4,14 @@ This project is based on the working paper ["Applying Asset Pricing Theory to Ca
 
 ## Getting Started
 
-This general
+5 main classes are contained in this framwork. 
+* damage
+* forcing
+* utility
+* tree
+* optimization
+
+
 
 
 ### Prerequisitesca
