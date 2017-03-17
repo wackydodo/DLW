@@ -7,6 +7,7 @@ date: 2017-03-17 04:24:59
 
 
 ### Overview
+The damge simulation class is designed to generate 
 
 ### Example
 Run this example:
