@@ -27,10 +27,6 @@ Give an example
 ## Contributing
 ...
 
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
 ## Authors
 
 * **Robert Litterman** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
