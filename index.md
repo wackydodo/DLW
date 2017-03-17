@@ -1,18 +1,48 @@
 ---
 layout: default
-title: "Jekyll Docs Template"
+title: "DLW MODEL"
 ---
 
-### Get Started
+## Overview
 
-Start by [creating a new post](http://jekyllrb.com/docs/posts/) one of the categories listed in `_config.yml`. It will appear in the navigation on the left once recompiled. Or use the supplied script to make creating pages easier:
+This project is based on the working paper ["Applying Asset Pricing Theory to Calibrate the Price of Climate Risk"](http://www.nber.org/papers/w22795) by Kent D. Daniel, Robert B. Litterman, and Gernot Wagner which aims at providing a analyzing framework for pricing greenhouse gas emissions.
 
-```bash
-ruby bin/jekyll-page "Some Page Title" ref
+5 main classes are contained in this framwork. 
+
+* damage
+* forcing
+* utility
+* tree
+* optimization
+
+## Getting Started
+
+### Prerequisites
+
+* Python 2.7 or Python 3.0 +
+* Works on Windows, Mac
+
+## Running the tests
+
+Tree-like picture
+
+### Break down into end to end tests
+
+Explain what these tests test and why
+```
+Give an example
 ```
 
-#### Don't Forget
+## Contributing
+....
 
-- Add your own content to this page (i.e. `index.md`) and change the `title`
-- Change `title` and `subtitle` defined in `config.yml` for your site
-- Set the `baseurl` in `_config.yml` for your repo if deploying to GitHub pages
+## Authors
+
+* **Robert Litterman**
+
+See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+
+## License
+
+...
+
